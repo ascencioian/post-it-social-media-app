@@ -6,6 +6,8 @@ You can like posts and comment on posts.
 
 
 **Link to project:**
+https://post-it-social-media-app.herokuapp.com/
+
 
 <img src="public/img/live_screenshot1.png">
 
